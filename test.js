@@ -1,1 +1,1 @@
-value local
+value git
